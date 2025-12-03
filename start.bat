@@ -1,0 +1,1 @@
+start java -Xmx4g -jar "meusoftware-100.jar" nogui
